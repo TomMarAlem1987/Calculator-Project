@@ -6,7 +6,7 @@ Calculator Project Repository:
 This is a project I'm building in the Nebula Academy SEV12 Program. This calculator is expected to have the most basic functionality with a simple and sleek design.
  
 ## Wireframe
- https://whimsical.com/NEgh16L5MBD8qKdTCvKZLK
+ https://whimsical.com/calculator-Wy1CU3bZnxAcBA3iNxcfH7
 ## Features
  
 ### MVP (Minimum Viable Product)
